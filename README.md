@@ -1,9 +1,13 @@
-# FSResourceAbsence – Custom Resource Calendar
+﻿# FSResourceAbsence – Custom Resource Calendar
 
 Salesforce package to display **Service Appointments** and **Resource Absences** in a unified calendar view.  
 The component is designed for **dispatchers, supervisors, and operations teams**, providing visibility of workload, availability, and absences in a single interface.
 
 The solution is implemented using **Visualforce, Apex, and Static Resources**, and is compatible with **Salesforce Field Service (FSL)**.
+
+<a href="https://githubsfdeploy.herokuapp.com?owner=psagredo99&repo=FSResourceAbsence">
+  <img src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png" alt="Deploy to Salesforce" />
+</a>
 
 ---
 ## UI Reference – Calendar Component
