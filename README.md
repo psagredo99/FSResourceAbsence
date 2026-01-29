@@ -6,6 +6,8 @@ The component is designed for **dispatchers, supervisors, and operations teams**
 The solution is implemented using **Visualforce, Apex, and Static Resources**, and is compatible with **Salesforce Field Service (FSL)**.
 
 ---
+<img width="1918" height="778" alt="image" src="https://github.com/user-attachments/assets/286d7a37-f76e-44ea-9738-aea32694d5b9" />
+
 
 ## UI Reference – Calendar Component
 
@@ -19,6 +21,9 @@ This allows:
 - Data reconciliation and auditing  
 
 ---
+
+<img width="1634" height="499" alt="image" src="https://github.com/user-attachments/assets/cef9a2c8-e29c-4a9f-b0aa-437246ae604c" />
+
 
 ### 2. Work Type Selector
 Dropdown used to filter calendar entries by **Work Type** (e.g. Repair, Preventive, Remote Assistance).  
@@ -35,6 +40,9 @@ Allows filtering by identifiers such as:
 
 ---
 
+<img width="1636" height="680" alt="image" src="https://github.com/user-attachments/assets/d4ae3e71-f71b-4572-ae59-2b1ceb1ef985" />
+
+
 ### 4. Calendar View Mode
 Switch between different calendar visualizations:
 - **Month**: High-level planning and load overview  
@@ -43,6 +51,8 @@ Switch between different calendar visualizations:
 - **List**: Tabular representation of appointments and absences  
 
 ---
+
+<img width="1891" height="582" alt="image" src="https://github.com/user-attachments/assets/2485e57f-c262-4403-8b55-99c35b27a876" />
 
 ### 5. Zone Filter
 Filter resources and events by **Zone / Territory**.  
