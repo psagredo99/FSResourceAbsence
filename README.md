@@ -6,10 +6,8 @@ The component is designed for **dispatchers, supervisors, and operations teams**
 The solution is implemented using **Visualforce, Apex, and Static Resources**, and is compatible with **Salesforce Field Service (FSL)**.
 
 ---
-<img width="1918" height="778" alt="image" src="https://github.com/user-attachments/assets/286d7a37-f76e-44ea-9738-aea32694d5b9" />
-
-
 ## UI Reference – Calendar Component
+<img width="1918" height="778" alt="image" src="https://github.com/user-attachments/assets/286d7a37-f76e-44ea-9738-aea32694d5b9" />
 
 ### 1. Calendar Export (CSV)
 Provides the ability to **export the current calendar view to a CSV file**.  
