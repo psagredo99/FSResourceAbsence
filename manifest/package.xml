@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <members>CsvBuilder</members>
+    <members>CsvBuilderException</members>
+    <members>CsvBuilderTest</members>
+    <members>HolidayUtil</members>
+    <members>HolidayUtilTest</members>
+    <members>ResourceCalendarController</members>
+    <members>ResourceCalendarControllerTest</members>
+    <members>StringBuilder</members>
+    <members>StringBuilderTest</members>
+    <name>ApexClass</name>
+  </types>
+  <types>
+    <members>ResourceCalendar</members>
+    <name>ApexPage</name>
+  </types>
+  <types>
+    <members>ResourceCalendar</members>
+    <name>StaticResource</name>
+  </types>
+  <types>
+    <members>ResourceCalendar</members>
+    <name>PermissionSet</name>
+  </types>
+  <types>
+    <members>Resource_Calendar</members>
+    <name>CustomTab</name>
+  </types>
+  <types>
+    <members>CsvColumnsInvalid</members>
+    <name>CustomLabel</name>
+  </types>
+  <version>65.0</version>
+</Package>
